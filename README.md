@@ -6,7 +6,7 @@ if you are hosting your bot to servers link heroku, repl.it, ect then check othe
 step 1:
 open cmd and type
 
-npm update --depth 2
+npm update 
 
 step 2:
 go to node_modules/lib/info.js and delete code available in it. 
